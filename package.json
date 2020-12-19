@@ -1,19 +1,19 @@
 {
   "name": "react-data-connected-components",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "",
-  "main": "./unbundled_modules/main.js",
+  "main": "./common_unbundled_modules/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Artem Gruden",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.8.0"
+    "react": ">=16.8.0"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:artemxgruden/react-data-connected-components"
   },
-  "homepage": "https://github.com/artemxgruden/react-data-connected-components#readme"
+  "homepage": "https://github.com/artemxgruden/react-data-connected-components"
 }

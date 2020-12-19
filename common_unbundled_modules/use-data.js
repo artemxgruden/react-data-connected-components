@@ -4,7 +4,6 @@ const { dataStateStorageContext } = require("./contexts.js");
 
 const getData = require("./get-data.js");
 
-// object (keys: string[])
 const useData = (keys = []) => {
   const dataStateStorage = useContext(dataStateStorageContext);
 
